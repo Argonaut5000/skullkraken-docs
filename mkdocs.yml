@@ -22,13 +22,10 @@ markdown_extensions:
   - md_in_html
 
 nav:
-  - Welcome: 
-    - "index.md"
-  - Project Info:
-    - "project.md"
+  - Welcome: "index.md"
+  - Project Info: "project.md"
     - "Asssets": "assets.md"
-  - Breeding:
-    - "breeding/the-bot.md"
+  - Breeding: "breeding/the-bot.md"
     - "In Depth": "breeding/in-depth-details.md"
   - Links:
     - "Links": "links.md"
