@@ -1,0 +1,34 @@
+site_name: Skullkraken
+
+plugins:
+  - search
+  - mermaid2:
+      arguments:
+        theme: "dark"
+theme:
+  name: material
+  features:
+    - navagation.expand
+    - navagation.tabs
+    - navagation.instant
+  palette:
+    scheme: slate
+    primary: black
+  logo: images/logo.png
+  favicon: images/logo.png
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - Welcome: 
+    - "index.md"
+  - Project Info:
+    - "project.md"
+    - "Asssets": "assets.md"
+  - Breeding:
+    - "breeding/the-bot.md"
+    - "In Depth": "breeding/in-depth-details.md"
+  - Links:
+    - "Links": "links.md"
