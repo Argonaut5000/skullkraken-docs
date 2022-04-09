@@ -27,7 +27,10 @@ nav:
     - "project.md"
     - "Asssets": "assets.md"
   - Breeding:
-    - "breeding/the-bot.md"
-    - "In Depth": "breeding/in-depth-details.md"
+    - "What is breeding and splicing?": "breeding/what-is.md" 
+    - "Walkthrough": "breeding/breeding.md"
+    - "In depth of what goes into it all": "breeding/in-depth-details.md"
+  - The Discord Bot:
+    - "discord-bot.md"
   - Links:
     - "Links": "links.md"

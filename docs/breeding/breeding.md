@@ -10,6 +10,14 @@ Breeding is for SK + SK -> BB
 
 * 1 Breeding Stone Token [Fertility|Shiny|Boost|Unique|Mutant|Dead]
 
+### You can breed with a partner!
+
+In this case each of you will need your own Skullkraken and your own Breeding Stone
+
+### Submitting a breeding request
+
+This can be done by using the `!$start_request` command in the bot channel in our discord. Note, that while submitting the request you be asked to choose a stone to use for the breeding. Be aware that this stone will be clawedback automatically from your wallet once the request is submitted.
+
 ### Other than the **Fertility Stone**, stones can be used to affect the resulting BB in may ways:
 - **Shiny Stone:** Shiny stones guarantee a "Shiny" background for the BB and will therefore make the resulting BB labeled "Shiny". Shiny BBs have some advatanges for Splicing and Kindergarten.
 
