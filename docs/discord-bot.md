@@ -4,7 +4,7 @@
 
 ### !register/!unregister
 
-### !start_request
+### !bot
 
 ### !flex
 
