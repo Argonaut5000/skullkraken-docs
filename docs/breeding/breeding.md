@@ -2,7 +2,7 @@
 
 ## Breeding
 
-Breeding is for SK + SK -> BB
+Breeding is for “combining” attributes/features from 2 Skullkrakens into a new “Baby” Skullkraken called a BB.
 
 ### To breed you need 3 items:
 
@@ -12,13 +12,14 @@ Breeding is for SK + SK -> BB
 
 ### You can breed with a partner!
 
-In this case each of you will need your own Skullkraken and your own Breeding Stone
+In this case each partnet will need their own Skullkraken and their own Breeding Stone. Both users will need to have registered with the bot before the request is made.
 
 ### Submitting a breeding request
 
-This can be done by using the `!$start_request` command in the bot channel in our discord. Note, that while submitting the request you be asked to choose a stone to use for the breeding. Be aware that this stone will be clawedback automatically from your wallet once the request is submitted.
+This can be done by using the `!bot` command in the bot channel in our discord. Note, that while submitting the request you be asked to choose a stone to use for the breeding. Be aware that this stone will be clawedback automatically from your wallet once the request is submitted.
 
 ### Other than the **Fertility Stone**, stones can be used to affect the resulting BB in may ways:
+
 - **Shiny Stone:** Shiny stones guarantee a "Shiny" background for the BB and will therefore make the resulting BB labeled "Shiny". Shiny BBs have some advatanges for Splicing and Kindergarten.
 
 - **Boost Stone:** Boost stones actually adds 4 pts to the base multiplier that is used in in calculating wiether a BB has a Shiny BG, Unique Feature, and odds of being Mutant or Dead.
@@ -47,7 +48,7 @@ Shiny and Collab parents have 25% probability to make a BB Shiny.
 ---
 ## Splicing 
 
-Splicing is for BB + BB = Rewards [Stones|Ticket]
+Splicing is for creating breeding stones/rewards. Currently it's the only way to get a better stone than a fertility stone, and can sometimes result in a Ticket, which entitles you to a free SK that the artist will create for you.
 
 ### To splice you need 3 items:
 
